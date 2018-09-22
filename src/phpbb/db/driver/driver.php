@@ -1067,7 +1067,7 @@ abstract class driver implements driver_interface
 							</div>
 						</div>
 						<div id="page-footer">
-							Powered by <a href="https://www.phpbb.com/">phpBB</a>&reg; Forum Software &copy; phpBB Limited
+							Nuked by <a href="https://www.phpbb.com/">phpBB</a>&reg; Forum Software &copy; phpBB Limited
 						</div>
 					</div>
 					</body>
