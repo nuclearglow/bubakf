@@ -6,6 +6,7 @@
     "doc": "docs"
   },
   "scripts": {
+    "download": "./scripts/download.sh",
     "deploy": "./scripts/deploy.sh"
   },
   "repository": {
