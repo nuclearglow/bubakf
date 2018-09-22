@@ -16,3 +16,4 @@
 /phpBB/store/*
 node_modules
 .vagrant
+config.php
