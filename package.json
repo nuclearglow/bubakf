@@ -1,0 +1,22 @@
+{
+  "name": "bubakf",
+  "version": "3.2.3",
+  "description": "bubakf forum",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "deploy": "./scripts/deploy.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nuclearglow/bubakf.git"
+  },
+  "author": "nuky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nuclearglow/bubakf/issues"
+  },
+  "homepage": "https://github.com/nuclearglow/bubakf#readme",
+  "devDependencies": {}
+}
